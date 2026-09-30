@@ -1,0 +1,6 @@
+{
+  "name": "Balaji Solar Systems",
+  "description": "Balaji Solar Systems provides rooftop solar solutions, solar consultation, installation and support for homes and businesses in Bhusawal and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
