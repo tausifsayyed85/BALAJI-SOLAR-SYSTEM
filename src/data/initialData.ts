@@ -116,7 +116,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Tata Power Solar Quoted Specification",
     warranty: "25 Year DC Output Performance Warranty Reference*",
-    image_url: "/src/assets/images/pv_panel_product_1790796085462.jpg",
+    image_url: "/images/pv_panel_product_1790796085462.jpg",
     is_illustrative: true,
   },
   {
@@ -136,7 +136,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Tata Power SOLAROOF Approved Model",
     warranty: "5–10 Year Manufacturer Standard Warranty Reference*",
-    image_url: "/src/assets/images/inverter_product_1790796097698.jpg",
+    image_url: "/images/inverter_product_1790796097698.jpg",
     is_illustrative: true,
   },
   {
@@ -156,7 +156,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Custom Heavy Engineering",
     warranty: "15 Year Structural Integrity Warranty",
-    image_url: "/src/assets/images/mounting_structure_1790796111337.jpg",
+    image_url: "/images/mounting_structure_1790796111337.jpg",
     is_illustrative: true,
   },
   {
@@ -175,7 +175,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Quoted Certified Balance-of-System",
     warranty: "Standard Equipment Coverage",
-    image_url: "/src/assets/images/distribution_boxes_1790796124662.jpg",
+    image_url: "/images/distribution_boxes_1790796124662.jpg",
     is_illustrative: true,
   },
   {
@@ -194,7 +194,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Quoted Certified Balance-of-System",
     warranty: "Standard Equipment Coverage",
-    image_url: "/src/assets/images/distribution_boxes_1790796124662.jpg",
+    image_url: "/images/distribution_boxes_1790796124662.jpg",
     is_illustrative: true,
   },
   {
@@ -213,7 +213,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Certified Electrical Standard",
     warranty: "5 Year Earth Resistance Reference*",
-    image_url: "/src/assets/images/earthing_lightning_1790796138929.jpg",
+    image_url: "/images/earthing_lightning_1790796138929.jpg",
     is_illustrative: true,
   },
   {
@@ -231,7 +231,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "National Building Code Standard",
     warranty: "Full Installation Integrity",
-    image_url: "/src/assets/images/earthing_lightning_1790796138929.jpg",
+    image_url: "/images/earthing_lightning_1790796138929.jpg",
     is_illustrative: true,
   },
   {
@@ -250,7 +250,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Tata Power Approved Solar Cable Standard",
     warranty: "25 Year Design Lifespan",
-    image_url: "/src/assets/images/meter_and_cables_1790796152888.jpg",
+    image_url: "/images/meter_and_cables_1790796152888.jpg",
     is_illustrative: true,
   },
   {
@@ -268,7 +268,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "MSEDCL Approved Tested Brands",
     warranty: "Utility Guarantee as per MSEDCL",
-    image_url: "/src/assets/images/meter_and_cables_1790796152888.jpg",
+    image_url: "/images/meter_and_cables_1790796152888.jpg",
     is_illustrative: true,
   },
   {
@@ -287,7 +287,7 @@ export const initialProducts: SolarProduct[] = [
     ],
     brand_ref: "Balaji Solar Systems Service Assurance",
     warranty: "5 Year Active Support Term",
-    image_url: "/src/assets/images/maintenance_service_1790796166103.jpg",
+    image_url: "/images/maintenance_service_1790796166103.jpg",
     is_illustrative: true,
   },
 ];
@@ -741,7 +741,7 @@ export const initialProjects: ProjectItem[] = [
     capacity: "3.5 kW (3540 Wp)",
     panels_used: "6 × 590W TATA MONO Bifacial",
     system_type: "Grid-Tied with Net Metering",
-    image_url: "/src/assets/images/hero_solar_rooftop_1790791627190.jpg",
+    image_url: "/images/hero_solar_rooftop_1790791627190.jpg",
     is_real: false, // marked as illustrative concept per instructions
   },
   {
@@ -754,7 +754,7 @@ export const initialProjects: ProjectItem[] = [
     capacity: "5.3 kW (5310 Wp)",
     panels_used: "9 × 590W TATA MONO Bifacial",
     system_type: "Elevated Terrace Canopy",
-    image_url: "/src/assets/images/sunset_solar_rooftop_1790791641721.jpg",
+    image_url: "/images/sunset_solar_rooftop_1790791641721.jpg",
     is_real: false,
   },
   {
@@ -767,7 +767,7 @@ export const initialProjects: ProjectItem[] = [
     capacity: "10 kW 3-Phase",
     panels_used: "High Efficiency Bifacial PV Array",
     system_type: "Commercial Grid-Tied",
-    image_url: "/src/assets/images/commercial_solar_1790796073113.jpg",
+    image_url: "/images/commercial_solar_1790796073113.jpg",
     is_real: false,
   },
   {
@@ -780,7 +780,7 @@ export const initialProjects: ProjectItem[] = [
     capacity: "4.1 kW (4130 Wp)",
     panels_used: "7 × 590W Half-Cut Bifacial",
     system_type: "TATA SOLAROOF Approved Setup",
-    image_url: "/src/assets/images/solar_engineer_1790791657194.jpg",
+    image_url: "/images/solar_engineer_1790791657194.jpg",
     is_real: false,
   },
 ];

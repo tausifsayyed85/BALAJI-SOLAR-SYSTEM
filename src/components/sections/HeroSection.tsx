@@ -139,8 +139,8 @@ export const HeroSection: React.FC = () => {
                 <img
                   src={
                     viewMode === 'photo'
-                      ? "/src/assets/images/hero_solar_rooftop_1790791627190.jpg"
-                      : "/src/assets/images/solar_3d_cutaway_1790791669801.jpg"
+                      ? "/images/hero_solar_rooftop_1790791627190.jpg"
+                      : "/images/solar_3d_cutaway_1790791669801.jpg"
                   }
                   alt={
                     viewMode === 'photo'

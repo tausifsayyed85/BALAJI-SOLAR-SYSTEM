@@ -20,7 +20,7 @@ export const FinalCtaSection: React.FC = () => {
     <section className="relative py-20 lg:py-28 overflow-hidden bg-slate-950 text-white">
       {/* Background Image with Dark & Amber Overlay */}
       <img
-        src="/src/assets/images/sunset_solar_rooftop_1790791641721.jpg"
+        src="/images/sunset_solar_rooftop_1790791641721.jpg"
         alt="Sunset over modern rooftop solar installation in Maharashtra"
         loading="lazy"
         className="absolute inset-0 w-full h-full object-cover opacity-35 scale-105 transition-transform duration-1000"

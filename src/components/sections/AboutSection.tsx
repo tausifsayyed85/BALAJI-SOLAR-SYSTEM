@@ -15,7 +15,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-5 flex flex-col gap-6 reveal-init">
             <div className="relative rounded-2xl overflow-hidden shadow-xl border border-slate-200">
               <img
-                src="/src/assets/images/solar_engineer_1790791657194.jpg"
+                src="/images/solar_engineer_1790791657194.jpg"
                 alt="Solar engineer inspecting rooftop solar photovoltaic panels in Bhusawal Maharashtra"
                 loading="lazy"
                 className="w-full h-80 sm:h-96 object-cover hover:scale-103 transition-transform duration-500"

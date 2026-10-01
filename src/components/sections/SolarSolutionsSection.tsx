@@ -13,7 +13,7 @@ export const SolarSolutionsSection: React.FC = () => {
       btn: t.solutions.residential.btn,
       capacityHint: "2 kW to 10 kW · 1-Phase / 3-Phase",
       accent: "border-amber-200/90 hover:border-amber-400 bg-white",
-      image: "/src/assets/images/hero_solar_rooftop_1790791627190.jpg",
+      image: "/images/hero_solar_rooftop_1790791627190.jpg",
     },
     {
       icon: <Building className="w-5 h-5 text-sky-600" />,
@@ -22,7 +22,7 @@ export const SolarSolutionsSection: React.FC = () => {
       btn: t.solutions.commercial.btn,
       capacityHint: "10 kW to 100 kW+ · 3-Phase Commercial",
       accent: "border-sky-200/90 hover:border-sky-400 bg-white",
-      image: "/src/assets/images/commercial_solar_1790796073113.jpg",
+      image: "/images/commercial_solar_1790796073113.jpg",
     },
     {
       icon: <Sun className="w-5 h-5 text-amber-500" />,
@@ -31,7 +31,7 @@ export const SolarSolutionsSection: React.FC = () => {
       btn: t.solutions.rooftop.btn,
       capacityHint: "RCC Slab · Tin Shed · Elevated Canopy",
       accent: "border-amber-200/90 hover:border-amber-400 bg-white",
-      image: "/src/assets/images/mounting_structure_1790796111337.jpg",
+      image: "/images/mounting_structure_1790796111337.jpg",
     },
     {
       icon: <Wrench className="w-5 h-5 text-emerald-600" />,
@@ -40,7 +40,7 @@ export const SolarSolutionsSection: React.FC = () => {
       btn: t.solutions.maintenance.btn,
       capacityHint: "5-Year AMC · Health Audits · Panel Care",
       accent: "border-emerald-200/90 hover:border-emerald-400 bg-white",
-      image: "/src/assets/images/maintenance_service_1790796166103.jpg",
+      image: "/images/maintenance_service_1790796166103.jpg",
     },
     {
       icon: <MessageSquare className="w-5 h-5 text-indigo-600" />,
@@ -49,7 +49,7 @@ export const SolarSolutionsSection: React.FC = () => {
       btn: t.solutions.consultation.btn,
       capacityHint: "Free Rooftop Assessment · Bhusawal & Jalgaon",
       accent: "border-indigo-200/90 hover:border-indigo-400 bg-white",
-      image: "/src/assets/images/consultation_scene_1790796181636.jpg",
+      image: "/images/consultation_scene_1790796181636.jpg",
     },
   ];
 
